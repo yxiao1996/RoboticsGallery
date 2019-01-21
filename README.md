@@ -2,6 +2,10 @@
 * toy projects from my winter holiday 2018-2019
 
 1. acrobot: 2-link and 3-link acrobot swing-up using trajectory optimization;
+   
+   * 3-link acrobot swing up:
+     ![acrobot3](gif/acrobot3-swingup.gif) 
+  
 2. rendezvous: formation control in different settings;
 3. walker: trajectory optimization for a 3-link simple walker;
 
