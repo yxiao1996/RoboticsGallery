@@ -4,23 +4,28 @@
 1. acrobot: 2-link and 3-link acrobot swing-up using trajectory optimization;
    * 2-link acrobot swing up:
   
-     <img src="gif/acrobot2-swingup.gif" height=200>
+     <img src="gif/acrobot2-swingup.gif" height=300>
    * 3-link acrobot swing up:
   
-     <img src="gif/acrobot3-swingup.gif" height=200>
+     <img src="gif/acrobot3-swingup.gif" height=300>
   
 2. rendezvous: formation control in different settings;
    * rendezvous(let all robot meet at same point):
-     <img src="gif/rendezvous.gif" height=200>
+  
+     <img src="gif/rendezvous.gif" height=300>
   
    * formation control with dynamical underlying graphs(circle):
   
-     <img src="gif/circle_dynamical.gif" height=200> 
+     <img src="gif/circle_dynamical.gif" height=300> 
 
    * role assignment with multiple shape formation control:
 
-     <img src="gif/shapes_hungarian.gif" height=200>
+     <img src="gif/shapes_hungarian.gif" height=300>
 3. walker: trajectory optimization for a 3-link simple walker;
+
+   * walking behaviour for a 3-link robot:
+
+     <img src="gif/walk.gif" height=300>
 
 ### Dependencies
 
