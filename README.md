@@ -10,6 +10,16 @@
      <img src="gif/acrobot3-swingup.gif" height=200>
   
 2. rendezvous: formation control in different settings;
+   * rendezvous(let all robot meet at same point):
+     <img src="gif/rendezvous.gif" height=200>
+  
+   * formation control with dynamical underlying graphs(circle):
+  
+     <img src="gif/circle_dynamical.gif" height=200> 
+
+   * role assignment with multiple shape formation control:
+
+     <img src="gif/shapes_hungarian.gif" height=200>
 3. walker: trajectory optimization for a 3-link simple walker;
 
 ### Dependencies
