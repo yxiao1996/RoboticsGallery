@@ -1,6 +1,7 @@
 ## Robotics Gallary
 * toy projects from my winter holiday 2018-2019
-
+* term project for ME740 intelligent mechanics course at Boston University
+  
 1. acrobot: 2-link and 3-link acrobot swing-up using trajectory optimization;
    * 2-link acrobot swing up:
   
@@ -27,12 +28,21 @@
 
      <img src="gif/walk.gif" height=300>
 
+4. mysim: multi-robot simulation environment;
+
+   * virtual structure triangular formation control for 3 robots
+
+     <img src="gif/vs_3.webp" height=300>
 ### Dependencies
 
 1. MATLAB: you need a base version of MATLAB to run the programs, no particular toolbox is required. 
 2. OptimTraj: to run all trajectory optimization toys, you need the MATLAB library. can be found here: https://github.com/MatthewPeterKelly/OptimTraj
 3. Hungarian Algorithm for Linear Assignment Problems(V2.3): to run role assignment with formation control, you need this library to perform the Hungarian Algorithm. can be found here: https://www.mathworks.com/matlabcentral/fileexchange/20652-hungarian-algorithm-for-linear-assignment-problems-v2-3
 
+* To run scripts in mysim:
+1. Robotics System Toolbox from MATLAB;
+2. Mobile Robotics Simulation Toolbox from MATLAB
+3. icp and hungarian algorithm from community is included in the lib folder. 
 
 ### Run the Experiments
 
